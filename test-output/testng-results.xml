@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-01T15:49:17Z" name="Default suite" finished-at="2021-03-01T15:50:14Z" duration-ms="56625">
+    <groups>
+    </groups>
+    <test started-at="2021-03-01T15:49:17Z" name="Default test" finished-at="2021-03-01T15:50:14Z" duration-ms="56625">
+      <class name="org.test.TenTen">
+        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:org.test.TenTen@7fc4780b]" started-at="2021-03-01T15:49:17Z" name="login" data-provider="login Data" finished-at="2021-03-01T15:50:14Z" duration-ms="56597" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[srir8529]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[08521511]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- org.test.TenTen -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
